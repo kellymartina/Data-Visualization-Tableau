@@ -31,12 +31,10 @@ Isso pode ser explicado por alguns motivos, como:
 
 - ### Quem é o melhor parceiro em campo do jogador?
 
-Em 2024 o jogador uruguaio Luis Suárez conseguiu complementar as habilidades e estilo de jogo do Lionel Messi nos gramados. Durante esse período, Suárez criou cinco assistências precisas para Messi e também mostrou sua eficiência em marcar em todas as outras cinco chances criadas pelo Messi. Os jogadores tem uma ótima relação dentro e fora de campo, essa colaboração não apenas beneficiou individualmente suas estatísticas, mas também contribuiu significativamente para o sucesso da equipe.
+Em 2024 o jogador uruguaio Luis Suárez conseguiu complementar as habilidades e o estilo de jogo do Lionel Messi nos gramados. Durante esse período, Suárez e Messi trocaram assistências precisas em dez ocasiões, com cinco assistências de Suárez para Messi e cinco de Messi para Suárez. Os jogadores tem uma ótima relação dentro e fora de campo, essa colaboração não apenas beneficiou individualmente suas estatísticas, mas também contribuiu significativamente para o sucesso da equipe.
 
 
 - ### Qual é a média da nota do jogador?
 
-A média geral da nota é de 8.17, apresentando notas maiores nos últimos jogos na competição Major League Soccer (MLS). Em janeiro e fevereiro o jogador participou de três jogos da MLS Preseason e dois jogos da Riyadh Season Cup, onde teve um desempenho menor devido a recuperação da lesão.
-Nos últimos sete jogos da MLS o jogador obteve notas ácima da sua média atual, atingindo a nota máxima no último jogo.
-
+A média da nota é de 8.17, apresentando notas maiores nos jogos da Major League Soccer (MLS); Nos últimos sete jogos, Messi obteve notas ácima da sua média atual, atingindo a nota máxima no último jogo. Em contrapartida, em janeiro e fevereiro, Messi participou de três jogos da MLS Preseason e dois jogos da Riyadh Season Cup, onde teve um desempenho menor devido a recuperação da lesão.
 
