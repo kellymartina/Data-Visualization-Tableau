@@ -12,11 +12,16 @@ Utilicé técnicas de web scraping para extraer los datos importantes directamen
 
 ## Preguntas
 
-- ### Cual es el promedio de minutos en campo?
+### Cual es el promedio de minutos en campo?
 
 El promedio de minutos en campo es de 74 minutos. Sin embargo, en el gráfico de líneas, podemos ver que en enero y febrero hubo una diferencia significativa en la cantidad de minutos jugados. Esa diferencia puede ser explicada porque el jugador sufrió una lesión en el fin de 2023, donde estuvo sin jugar por un período de casi dos meses. En enero y febrero sus minutos de juego fueron limitados para garantizar una recuperación completa. Podemos observar que a partir de marzo hubo un aumento progresivo en la cantidad de minutos en campo.
 
-- ### En que momento del partido el jugador muestra una eficiencia mayor para marcar un gol?
+<div align="center">
+  <img src="/images/grafico1.png"  width="25%" height="25%">
+</div>
+
+
+### En que momento del partido el jugador muestra una eficiencia mayor para marcar un gol?
 
 La eficiencia de un jugador para marcar un gol puede depender de muchos factores, como la posición en campo y el estilo de juego del adversario. Sin embargo, se puede visualizar que el jugador Lionel Messi presenta una eficiencia mayor después del minuto 40, en la mayoría de las ocasiones marcando después del inicio del segundo tiempo.
 Eso puede ser explicado por varias razones, como:
@@ -25,16 +30,25 @@ Eso puede ser explicado por varias razones, como:
 3. Cambios en el ritmo de juego
 4. Sustituciones
 
-- ### Quién es el mejor compañero en campo?
+<div align="center">
+  <img src="/images/grafico2.png"  width="50%" height="50%">
+</div>
 
+### Quién es el mejor compañero en campo?
 
 En 2024, el jugador uruguayo Luis Suárez logró complementar las habilidades y el estilo de juego de Lionel Messi en la cancha. Durante este período, Suárez y Messi han intercambiado asistencias precisas en diez ocasiones, con cinco asistencias de Suárez a Messi y cinco de Messi a Suárez. Los jugadores tienen una relación excelente adentro y afuera de la cancha, esa colaboración no solo apenas benefició individualmente sus estadísticas como también contribuyó significativamente para el éxito del equipo.
 
+<div align="center">
+  <img src="/images/grafico3.png"  width="15%" height="15%">
+</div>
 
-- ### Cual es el promedio de nota del jogador?
+### Cual es el promedio de nota del jogador?
 
 En cuanto al promedio de nota del jugador, este se sitúa en 8.17. Se observa que presenta notas mayores en la MLS; en sus últimos siete partidos, Messi ha logrado superar su promedio actual, alcanzando la nota máxima en el último partido. Por otro lado, en enero y febrero, Messi participó en tres partidos de la MLS Preseason y en dos partidos de la Riyadh Season Cup, donde tuvo un desempeño menor debido a su proceso de recuperación.
 
+<div align="center">
+  <img src="/images/grafico4.png"  width="15%" height="15%">
+</div>
 
 
 
